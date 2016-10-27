@@ -1,0 +1,1 @@
+[24-Oct-2016 22:53:32 Europe/Zagreb] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4160769 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Json/JsonFile.php on line 266

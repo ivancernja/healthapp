@@ -1,0 +1,93 @@
+[24-Oct-2016 11:08:43 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:08:44 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:11:40 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:12:55 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:12:56 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:12:56 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:14:54 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:15:17 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:15:52 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:17:26 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:17:27 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:22:43 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 11:37:25 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:37:26 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:37:27 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:37:27 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:37:28 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:37:28 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:06 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:07 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:24 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:25 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:25 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:25 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:46 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:46 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:47 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:47 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:47 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:43:47 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 11:46:56 UTC] PHP Fatal error:  Call to undefined function link_to_route() in /home/icernja/lvr.icernja.host25.com/storage/framework/views/06f534e736fde409cb38fab481f04cd04f7fbca4.php on line 5
+[24-Oct-2016 19:33:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING), expecting ']' in /home/icernja/lvr.icernja.host25.com/routes/web.php on line 18
+[24-Oct-2016 19:34:10 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING), expecting ']' in /home/icernja/lvr.icernja.host25.com/routes/web.php on line 18
+[24-Oct-2016 19:34:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING), expecting ']' in /home/icernja/lvr.icernja.host25.com/routes/web.php on line 18
+[24-Oct-2016 19:41:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 14
+[24-Oct-2016 19:41:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 14
+[24-Oct-2016 20:55:08 UTC] PHP Fatal error:  Class 'Illuminate\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 20:57:21 UTC] PHP Fatal error:  Class 'Illuminate\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 20:57:22 UTC] PHP Fatal error:  Class 'Illuminate\Html\HtmlServiceProvider' not found in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 20:59:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:00:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tasks' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:01:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:01:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:01:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:05:36 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:05:38 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:08:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:13:04 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:14:28 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:14:30 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:15:24 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:15:27 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 43
+[24-Oct-2016 21:16:02 UTC] PHP Fatal error:  Class 'Task' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 45
+[26-Oct-2016 13:21:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:21:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:21:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:22:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:22:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:22:39 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\MessageBag::none() in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Support/ViewErrorBag.php on line 82
+[26-Oct-2016 13:23:51 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\MessageBag::none() in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Support/ViewErrorBag.php on line 82
+[26-Oct-2016 13:23:53 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\MessageBag::none() in /home/icernja/lvr.icernja.host25.com/vendor/laravel/framework/src/Illuminate/Support/ViewErrorBag.php on line 82
+[26-Oct-2016 13:24:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 53
+[26-Oct-2016 13:37:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/TasksController.php on line 120
+[26-Oct-2016 14:27:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:28:53 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:30:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:30:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:30:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:30:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:31:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:31:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:31:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:31:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:32:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:22 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:23 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:23 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:23 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:24 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:44 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:45 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:45 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 14:33:48 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 21
+[26-Oct-2016 15:24:44 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 54
+[26-Oct-2016 15:25:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Kartons' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 54
+[26-Oct-2016 15:25:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Kartoni' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 54
+[26-Oct-2016 15:25:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Kartoni' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 54
+[26-Oct-2016 15:26:00 UTC] PHP Fatal error:  Class 'App\Karton' not found in /home/icernja/lvr.icernja.host25.com/app/Http/Controllers/KartoniController.php on line 54
